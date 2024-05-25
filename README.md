@@ -56,7 +56,7 @@ pip install re
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/arjunnag-bits-goa-20202085/fnd.github.io
+git clone https://github.com/arjunnag933/fnd.github.io
 ```
 
 2. Navigate to the project directory:
